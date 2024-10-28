@@ -34,6 +34,7 @@ header div img {
 }
 header nav ul {
   margin: 0;
+  font-size: 15px;
 }
 
 header nav li {
@@ -75,7 +76,7 @@ section h2 {
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 h1 {
-  font-size: 6rem;
+  font-size: 3.5rem;
   font-weight: bold;
   letter-spacing: -0.03em;
   margin-bottom: 0.7em;
@@ -96,7 +97,7 @@ ol,
 dl,
 blockquote {
   margin-bottom: 1.2em;
-  font-size: 20px;
+  font-size: 13px;
 }
 h1 + p {
   color: #a0a0a0;
@@ -201,7 +202,7 @@ footer {
   color: #f0f0f0;
   padding: 1em;
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 13px;
 }
 footer a {
   color: fuchsia;
